@@ -140,3 +140,25 @@ margin-bottom: 32px;
 }
 
 
+/* Card */
+.card-section {
+  height: 448px;
+  background-color: #FFFFFF;
+}
+.card-top {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  margin-top: 80px;
+  margin-bottom: 44px;
+}
+.card-top h1 {
+  font-size: 48px;
+  margin-bottom: 16px;
+}
+.card-top p {
+  font-size: 16px;
+  color: #627382;
+  
+}
